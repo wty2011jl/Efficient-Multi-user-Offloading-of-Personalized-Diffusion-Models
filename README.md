@@ -2,7 +2,7 @@
 
 ## About the Training
 
-This project utilizes Hugging Face's Dreambooth technology for training both cluster wide models and local personalized models. For further details on Dreambooth, refer to the [Hugging Face Dreambooth webpage]([https://huggingface.co/docs](https://github.com/huggingface/diffusers/tree/main/examples/dreambooth)).
+This project utilizes Hugging Face's Dreambooth technology for training both cluster wide models and local personalized models. For further details on Dreambooth, refer to the [HuggingFace Dreambooth webpage](https://github.com/huggingface/diffusers/tree/main/examples/dreambooth)
 
 ### Data Sets
 
@@ -11,7 +11,7 @@ This project utilizes Hugging Face's Dreambooth technology for training both clu
 
 ## Model Storage
 
-The well fine-tuned models have been uploaded to huggingface, refer to the [Hugging Face wty2011 webpage]([https://huggingface.co/docs](https://huggingface.co/wty2011))
+The well fine-tuned models have been uploaded to huggingface, refer to the [Hugging Face wty2011 webpage](https://huggingface.co/wty2011)
 
 ## Modifications in Hybrid Inference
 
