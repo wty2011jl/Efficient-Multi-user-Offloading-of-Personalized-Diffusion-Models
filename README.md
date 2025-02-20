@@ -11,7 +11,7 @@ This project utilizes Hugging Face's Dreambooth technology for training both clu
 
 ## Model Storage
 
-The well fine-tuned models have been uploaded to huggingface, refer to the [Hugging Face wty2011 webpage](https://huggingface.co/wty2011)
+The well fine-tuned models have been uploaded to huggingface, refer to the [Huggingface wty2011 webpage](https://huggingface.co/wty2011)
 
 ## Modifications in Hybrid Inference
 
