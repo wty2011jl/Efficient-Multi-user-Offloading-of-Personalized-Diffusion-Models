@@ -14,7 +14,7 @@ import math
 import numpy as np
 
 prompt1 = "A photo of sks dog in the box"  #0-20
-prompt2 = "A photo of sks dog running on the grass"
+prompt2 = "A photo of sks dog on the grass"
 prompt3 = "A photo of sks dog on the sofa"
 prompt4 = "A photo of sks dog next to the car"
 prompt5 = "A photo of sks dog siting on the floor"
